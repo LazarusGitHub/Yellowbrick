@@ -1,5 +1,5 @@
-﻿using Sabio.Data.Providers;
-using Sabio.Models.Requests;
+﻿using Yellowbrick.Data.Providers;
+using Yellowbrick.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -7,18 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
-using Sabio.Services.Interfaces;
+using Yellowbrick.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.Reflection;
-using Sabio.Services;
-using Sabio.Models.Domain;
+using Yellowbrick.Services;
+using Yellowbrick.Models.Domain;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
-using Sabio.Data;
+using Yellowbrick.Data;
 using Microsoft.AspNetCore.Authentication;
-using Sabio.Models.Domain.Lookups;
-using Sabio.Services.ClientServices;
+using Yellowbrick.Models.Domain.Lookups;
+using Yellowbrick.Services.ClientServices;
 
-namespace Sabio.Services
+namespace Yellowbrick.Services
 {
     public class ClientHousingService : IClientHousingService
     {
