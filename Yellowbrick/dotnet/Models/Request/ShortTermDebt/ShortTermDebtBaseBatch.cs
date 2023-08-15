@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests
+namespace Yellowbrick.Models.Requests
 {
     public class ShortTermDebtBaseBatch
     {
