@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-namespace Sabio.Models.Domain.Lookups
+namespace Yellowbrick.Models.Domain.Lookups
 {
     public class LookUp
     {
