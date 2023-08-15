@@ -1,7 +1,7 @@
-﻿using Sabio.Models.Requests;
+﻿using Yellowbrick.Models.Requests;
 using System.Collections.Generic;
 
-namespace Sabio.Services.Interfaces
+namespace Yellowbrick.Services.Interfaces
 {
     public interface IClientHousingService
     {
