@@ -3,7 +3,7 @@ import { Formik, Field, Form, ErrorMessage, FieldArray } from "formik";
 import shortTermDebtSchema from "schemas/shortTermDebtSchema";
 import shortTermDebtService from "services/shortTermDebtService";
 import lookUpService from "services/lookUpService";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import toastr from "toastr";
 import { Table } from "react-bootstrap";
 import PropTypes from "prop-types";
