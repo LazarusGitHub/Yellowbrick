@@ -1,6 +1,6 @@
 import React from "react";
 import { useFormik } from "formik";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import clientHousingService from "services/clientHousingService";
 import toastr from "toastr";
 import housingStatusSchema from "schemas/housingStatusSchema";
