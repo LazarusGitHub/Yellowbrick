@@ -1,16 +1,16 @@
-﻿using Sabio.Models.Domain;
-using Sabio.Models.Requests;
-using Sabio.Services.Interfaces;
+﻿using Yellowbrick.Models.Domain;
+using Yellowbrick.Models.Requests;
+using Yellowbrick.Services.Interfaces;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using Sabio.Models.Domain.Lookups;
-using Sabio.Data.Providers;
-using Sabio.Data;
-using Sabio.Services.ClientServices;
+using Yellowbrick.Models.Domain.Lookups;
+using Yellowbrick.Data.Providers;
+using Yellowbrick.Data;
+using Yellowbrick.Services.ClientServices;
 using System;
 
-namespace Sabio.Services
+namespace Yellowbrick.Services
 {
 
     public class ShortTermDebtsService : IShortTermDebtService
