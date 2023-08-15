@@ -1,8 +1,8 @@
 # Yellowbrick
 
-# YellowBrick is a financial firm focused on crafting personalized financial plans, offering a suite of services such as life insurance, 401k plans, and annuities. This commitment to a tailored approach has allowed the company to effectively provide comprehensive financial planning to meet its client's individual needs and aspirations.
+ # YellowBrick is a financial firm focused on crafting personalized financial plans, offering a suite of services such as life insurance, 401k plans, and annuities. This commitment to a tailored approach has allowed the company to effectively provide comprehensive financial planning to meet its client's individual needs and aspirations.
 
-My role as a software engineer was to implement the functionality of the employment intake and income intake forms along with the implemention of the view dashboards when the registrations were complete. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
+My role as a software engineer was to implement the functionality of the employment intake and income intake forms along with the implementation of the view dashboards when the registrations were complete. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
 ● Developed and structured the client housing and short-term debts intake forms along with the implementation of the view dashboards functionality form the back-end to the front-end.
 
