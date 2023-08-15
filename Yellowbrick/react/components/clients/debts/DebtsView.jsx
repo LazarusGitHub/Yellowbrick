@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import shortTermDebtService from "services/shortTermDebtService";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import { Table } from "react-bootstrap";
 import commonFormater from "utils/commonFormater";
 import { FaEdit } from "react-icons/fa";
